@@ -1,4 +1,4 @@
-$("#currentDay").text(moment().format("MMM Do YY"))
+$("#currentDay").text(moment().format("MMM Do YY"));
 
 //var timeclass = "past"
 
